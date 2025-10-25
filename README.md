@@ -36,12 +36,15 @@ This project walks through every key step — from cleaning raw text data to eva
 ## ⭐ Support
 
 If you find this project helpful, please ⭐ star this repository and upvote on Kaggle 💙
+
 Your support motivates me to create more Machine Learning projects!
 
 ## 🧠 Author
 
 👩‍💻 Anila Bukhari
+
 Data Science Enthusiast | Passionate about Machine Learning & NLP
+
 🌐 Kaggle Profile: [https://www.kaggle.com/anilabukhari]
 
 
