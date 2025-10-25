@@ -31,7 +31,7 @@ This project walks through every key step — from cleaning raw text data to eva
 ## 🔗 Kaggle Notebook
 
 👉 View the full notebook on Kaggle:
-Email/SMS Spam Classifier | 97% Accuracy | TF-IDF + Naive Bayes
+[(https://www.kaggle.com/code/anilabukhari/email-sms-spam-classifier-97-accuracy)]
 
 ## ⭐ Support
 
@@ -42,7 +42,7 @@ Your support motivates me to create more Machine Learning projects!
 
 👩‍💻 Anila Bukhari
 Data Science Enthusiast | Passionate about Machine Learning & NLP
-🌐 Kaggle Profile
+🌐 Kaggle Profile: [https://www.kaggle.com/anilabukhari]
 
 
 
