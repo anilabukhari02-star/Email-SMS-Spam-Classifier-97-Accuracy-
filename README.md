@@ -6,9 +6,13 @@ This project walks through every key step — from cleaning raw text data to eva
 💙 Project Overview
 
 This notebook demonstrates how to:
+
 Clean and preprocess text data
+
 Extract features using TF-IDF
+
 Train a Naive Bayes model
+
 Evaluate accuracy and performance metrics
 
 🧹 Data Cleaning Summary
